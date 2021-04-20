@@ -1,4 +1,4 @@
-Hola, soy Abraham Cocoletzi 👨 
+Hola, soy Abraham Cocoletzi 👨 \n
 💻Soy un desarrollador de software de pila completa y entusiasta del aprendizaje automático. Me apasionan las tecnologías y me encanta aprender cosas nuevas.
 
 🔭 Actualmente estoy buscando nuevas oportunidades.
