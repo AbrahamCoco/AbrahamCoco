@@ -1,6 +1,6 @@
+<p align="center">
 # Abraham Cocoletzi Zempoalteca
 
-<p align="center">
 Haga lo que haga, lo hago a la perfeccion, me tomo muy en serio la etica de trabajo, me encanta guiar a las personas, ayudo a alcanzar los objetivos y constantemente busco innovar algo para mejorar la vida de las personas.
 <br><br>
   · <a href="">Corriculum</a>
