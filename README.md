@@ -22,6 +22,6 @@ Haga lo que haga, lo hago a la perfeccion, me tomo muy en serio la etica de trab
 
 </p>
 
-![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+!(https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 <br>
 </p>
