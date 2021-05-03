@@ -10,8 +10,8 @@ Haga lo que haga, lo hago a la perfeccion, me tomo muy en serio la etica de trab
 <br>
  <p align="center">
  <a href="https://twitter.com/zac033"><img src="https://img.shields.io/twitter/follow/zac033?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.instagram.com/abraham_cocoletzi/"><img src="" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href=""><img src="" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.instagram.com/abraham_cocoletzi/"><img src="https://img.shields.io/instagram/follow/abraham_cocoletzi?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.youtube.com/channel/UCCYEMPeHHh2NrmjNXnQSbSg"><img src="https://img.shields.io/youtube/channel/subscribers/UCCYEMPeHHh2NrmjNXnQSbSg?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 <br>
 <p align="center">
