@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "zac033zc",
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\UATX-Abraham-"
+		},
+		{
+			"name": "Uatx",
+			"path": "..\\..\\..\\Uatx"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "zac033zc",
+		"java.project.sourcePaths": [
+			"NetBeansProjects/EncodeDecodeMD5/src/encodedecodemd5"
+		]
+	}
+}
