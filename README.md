@@ -9,8 +9,7 @@ Haga lo que haga, lo hago a la perfeccion, me tomo muy en serio la etica de trab
 | <a href="">Link2.</a>
 <br>
  <p align="center">
- <a href="https://twitter.com/abrahamcocoze"><img src="https://img.shields.io/twitter/follow/abrahamcocoze?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.youtube.com/channel/UCCYEMPeHHh2NrmjNXnQSbSg"><img src="https://img.shields.io/youtube/channel/subscribers/UCCYEMPeHHh2NrmjNXnQSbSg?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://twitter.com/abrahamcocoze"><img src="https://img.shields.io/twitter/follow/abrahamcocoze?style=social" /></a>
 <br>
 <br>
 <p align="center">
