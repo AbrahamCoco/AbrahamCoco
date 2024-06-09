@@ -8,9 +8,9 @@ Haga lo que haga, lo hago a la perfeccion, me tomo muy en serio la etica de trab
 <a href="https://zac033zc.github.io/Portafolio/">Portafolio</a>
 | <a href="">Link2.</a>
 <br>
- <p align="center">
+ <!-- <p align="center">
  <a href="https://twitter.com/abrahamcocoze"><img src="https://img.shields.io/twitter/follow/abrahamcocoze?style=social" /></a>
-<br>
+<br> -->
 <br>
 <p align="center">
  <i>¡Echa un vistazo a mis repositorios y vamos a ponernos en contacto!</i>
