@@ -3,9 +3,9 @@
 <p align="center">
 Haga lo que haga, lo hago a la perfeccion, me tomo muy en serio la etica de trabajo, me encanta guiar a las personas, ayudo a alcanzar los objetivos y constantemente busco innovar algo para mejorar la vida de las personas.
 <br><br>
-  ·<a href="https://zac033zc.github.io/cv/">Curriculum</a>· 
+  ·<a href="https://abrahamcoco.github.io/cv/">Curriculum</a>· 
 <br>
-<a href="https://zac033zc.github.io/Portafolio/">Portafolio</a>
+<a href="https://abrahamcoco.github.io/Portafolio/">Portafolio</a>
 | <a href="">Link2.</a>
 <br>
  <!-- <p align="center">
