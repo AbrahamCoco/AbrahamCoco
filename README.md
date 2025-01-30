@@ -5,7 +5,7 @@ Haga lo que haga, lo hago a la perfeccion, me tomo muy en serio la etica de trab
 <br><br>
   ·<a href="https://abrahamcoco.github.io/cv/">Curriculum</a>· 
 <br>
-<a href="https://abrahamcoco.github.io/Portafolio/">Portafolio</a>
+<!--<a href="https://abrahamcoco.github.io/Portafolio/">Portafolio</a>
 | <a href="">Link2.</a>
 <br>
  <!-- <p align="center">
